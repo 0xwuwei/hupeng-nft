@@ -61,7 +61,3 @@ def test():
                             ),
                             token_id = 1).run(sender = admin)
                             
-    # (1) Create a test account operator with the seed of "operator".              
-    
-    
-    # (2) Call entry point update_operator and give operator the access to transfer token with token_id 0 for mark.
